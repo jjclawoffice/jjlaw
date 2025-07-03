@@ -1,0 +1,18 @@
+[
+  {
+    "link": "/",
+    "title": "Beranda"
+  },
+  {
+    "link": "tentang-kami",
+    "title": "Tentang Kami"
+  },
+  {
+    "link": "layanan",
+    "title": "Layanan"
+  },
+  {
+    "link": "kontak",
+    "title": "Kontak"
+  }
+]

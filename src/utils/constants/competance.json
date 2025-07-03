@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "/bitmap/competence/Scales.png",
+    "lable": "100+",
+    "desc": "total case win"
+  },
+  {
+    "icon": "/bitmap/competence/Law.png",
+    "lable": "3",
+    "desc": "expert lawyer"
+  },
+  {
+    "icon": "/bitmap/competence/Handshake.png",
+    "lable": "50+",
+    "desc": "business partners"
+  },
+  {
+    "icon": "/bitmap/competence/Prize.png",
+    "lable": "50+",
+    "desc": "honours & awards"
+  }
+]
